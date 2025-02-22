@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gustavoctrlplay
+- 👋 Olá, eu sou @gustavoctrlplay
 - 👀 Eu sou interessado em animes, jogos e programação web
 - 🌱 Programação web
 - 📫 gustavo@gmail.com
