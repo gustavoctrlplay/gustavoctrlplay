@@ -4,7 +4,7 @@
 - 📫 gustavo@gmail.com
 - ⚡ Fun fact: Sou diamante no lol
 
-### 🐍 Gráfico 3D das contribuições
+### Minhas contribuições e tecnologias:
 
 ![github-contribution-grid](./profile-3d-contrib/profile-night-green.svg)
 
