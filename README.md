@@ -6,7 +6,7 @@
 
 ### 🐍 Gráfico 3D das contribuições
 
-![github-contribution-grid](./profile-3d-contrib/profile-github-contribution-grid-snake.svg)
+![github-contribution-grid](./profile-3d-contrib/profile-night-green.svg)
 
 <!---
 gustavoctrlplay/gustavoctrlplay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
