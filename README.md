@@ -3,6 +3,11 @@
 - 🌱 Programação web
 - 📫 gustavo@gmail.com
 - ⚡ Fun fact: Sou diamante no lol
+
+### 🐍 Gráfico 3D das contribuições
+
+![github-contribution-grid](./profile-3d-contrib/profile-github-contribution-grid-snake.svg)
+
 <!---
 gustavoctrlplay/gustavoctrlplay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
