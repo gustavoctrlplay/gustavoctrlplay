@@ -6,7 +6,7 @@
 
 ### Minhas contribuições e tecnologias:
 
-![github-contribution-grid](./profile-3d-contrib/profile-night-green.svg)
+![github-contribution-grid](./profile-3d-contrib/profile-south-season-animate.svg)
 
 <!---
 gustavoctrlplay/gustavoctrlplay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
